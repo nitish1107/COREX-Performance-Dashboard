@@ -1,0 +1,41 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost,lead_time_days
+P001,Headphone A,ELECTRONICS,Headphones,5690.0,4524.18,8
+P002,Speaker B,Electronics,Speakers,5240.0,4021.88,13
+P003,Smartwatch C,Electronics,Smartwatches,6860.0,5631.31,11
+P004,Headphone D,,Headphones,1940.0,1544.3,12
+P005,Speaker E,Electronics,Speakers,3350.0,2794.37,12
+P006,Smartwatch F,Electronics,Smartwatches,5970.0,4748.97,11
+P007,Headphone G,Electronics,Headphones,2520.0,2027.0,13
+P008,Speaker H,ELECTRONICS,Speakers,6000.0,4863.2,4
+P009,Fan A,Appliances,Fans,7190.0,5093.12,4
+P010,Air Cooler B,Appliances,Air Coolers,8200.0,6086.62,14
+P011,Mixer C,Appliances,Mixers,2960.0,2123.32,9
+P012,Fan D,Appliances,Fans,2660.0,1954.15,4
+P013,Air Cooler E,Appliances,Air Coolers,7090.0,5369.97,8
+P014,Mixer F,Appliances,Mixers,4280.0,3071.18,7
+P015,Fan G,,Fans,2920.0,2015.95,11
+P016,Air Cooler H,Appliances,Air Coolers,3200.0,2347.47,9
+P017,Chair A,Furniture,Chairs,5170.0,3739.29,10
+P018,Desk B,Furniture,Desks,4210.0,3044.78,11
+P019,Shelf C,Furniture,Shelves,8000.0,5429.98,13
+P020,Chair D,Furniture,Chairs,7060.0,4617.07,7
+P021,Desk E,Furniture,Desks,3340.0,2140.06,12
+P022,Shelf F,FURNITURE,Shelves,6920.0,4916.77,12
+P023,Chair G,Furniture,Chairs,7810.0,5356.81,9
+P024,Desk H,Furniture,Desks,2880.0,1876.18,10
+P025,Shirt A,Fashion,Shirts,2510.0,1346.69,13
+P026,Shoe B,,Shoes,2790.0,1551.7,10
+P027,Jacket C,Fashion,Jackets,2160.0,1181.75,12
+P028,Shirt D,Fashion,Shirts,590.0,314.12,7
+P029,Shoe E,FASHION,Shoes,1140.0,603.09,14
+P030,Jacket F,Fashion,Jackets,1200.0,584.4,13
+P031,Shirt G,Fashion,Shirts,1340.0,690.41,8
+P032,Shoe H,Fashion,Shoes,2170.0,1245.73,11
+P033,Snack A,Grocery,Snacks,430.0,335.67,8
+P034,Beverage B,Grocery,Beverages,170.0,126.19,12
+P035,Staple C,Grocery,Staples,130.0,105.59,11
+P036,Snack D,GROCERY,Snacks,160.0,126.42,9
+P037,Beverage E,,Beverages,160.0,129.54,9
+P038,Staple F,Grocery,Staples,280.0,215.64,8
+P039,Snack G,Grocery,Snacks,410.0,318.23,14
+P040,Beverage H,Grocery,Beverages,140.0,117.07,4

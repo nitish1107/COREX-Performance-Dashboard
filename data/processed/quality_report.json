@@ -1,0 +1,10 @@
+{
+  "raw_rows": 116460,
+  "duplicates_removed": 1721,
+  "dates_reformatted": 17210,
+  "prices_parsed_from_text": 5736,
+  "regions_fixed": 11285,
+  "missing_discounts_set_to_zero": 3442,
+  "invalid_rows_removed": 458,
+  "clean_rows": 114281
+}
